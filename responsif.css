@@ -1,0 +1,123 @@
+/* laptop */
+@media (max-width: 1366px) {
+    html {
+      font-size: 90%;
+    }
+  }
+  
+  /* tablet */
+  @media (max-width: 768px) {
+    html {
+      font-size: 70%;
+    }
+    .mobile {
+      display: inline;
+    }
+    .navbar ul {
+      display: none;
+    }
+    .map2{
+      margin-top: -26rem;
+     
+    }
+    .maps{
+      width: 500px;
+      height: 500px;
+    }
+  }
+  
+  
+  /* mobile */
+  @media (max-width: 450px) {
+    html {
+      font-size: 40%;
+    }
+  .img2 p{
+    height: 80px;
+    line-height: 1.5rem;
+
+  }
+  }
+  @media (max-width:400px){
+    .wrapper{
+      margin-left: 1rem;
+    }
+    .lok{
+      margin-top:-0.2rem;
+    }
+    footer{
+      margin-top: -25rem;
+    }
+    section{
+      margin-left: 6rem;
+    }
+    .main p{
+      width: 100%;
+    }
+    .img img{
+      width: 300px ;
+      height: 300px;
+    }
+    .mobile{
+      font-size: 2rem;
+    }
+    .container{
+      margin-left:6rem;
+    }
+  }
+  @media (max-width:300px){
+    
+  }
+  @media(max-width:415px){
+    .ad{
+      margin-right: 17rem;
+      margin-bottom: 10rem;
+    
+    }
+    .servic1 p{
+      margin-left: 3rem;
+      width: 80%;
+      
+      padding-bottom: 4rem;
+    }
+    .map2{
+      margin-top: -40rem;
+      margin-bottom: 30rem;
+      
+    }
+    .maps{
+      width: 360px;
+      height: 380px;
+    }
+    .mobile{
+      margin-right: 2rem;
+    }
+    section{
+      margin-right: 7rem;
+    }
+    .container{
+      margin-right: 5rem;
+    }
+    .ad{
+      margin-left: 20rem;
+    }
+   .red{
+    margin-right: 20rem;
+   }
+  
+  }
+  @media(max-width:374px){
+    section{
+      margin-left: 7rem;
+    }
+   .img img{
+      margin-left: 8rem;
+      width: 400px;
+    }
+   
+    
+  }
+
+
+
+
